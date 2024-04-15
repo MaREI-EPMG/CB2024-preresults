@@ -1,0 +1,14 @@
+{
+  "name": "mitigation_cb2024-400mt",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-HTRUCK",
+      "seriesValues": [
+        [
+          2030,
+          1.00060145007052e-08
+        ]
+      ]
+    }
+  ]
+}
