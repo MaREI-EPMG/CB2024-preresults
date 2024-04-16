@@ -685,7 +685,9 @@
       "SBIORDST02",
       "SBIORDST03",
       "SBIORDST04",
-      "SBIORDST05"
+      "SBIORDST05",
+      "IMPBIODST1G_S4",
+      "SBIORDST01"
     ],
     "colorScale": [
       "#7C5F04",
@@ -694,7 +696,9 @@
       "#75EE15",
       "#B5CEAF",
       "#A069BD",
-      "#A044F1"
+      "#A044F1",
+      "#A020F0",
+      "#392A26"
     ],
     "unit": "PJ"
   },
@@ -704,14 +708,18 @@
       "IMPBIOETH1G_S2",
       "IMPBIOETH1G_S3",
       "SBIORETH02",
-      "SBIORETH03"
+      "SBIORETH03",
+      "IMPBIOETH1G_S4",
+      "SBIORETH01"
     ],
     "colorScale": [
       "#2BB2C1",
       "#D92AD0",
       "#A020F0",
       "#78B976",
-      "#42497B"
+      "#42497B",
+      "#A020F0",
+      "#BEDA89"
     ],
     "unit": "PJ"
   },
@@ -1206,7 +1214,10 @@
       "PWR-SOL",
       "PWR-H2",
       "PWR-BIO-CCS",
-      "PWR-GAS-CCS"
+      "PWR-GAS-CCS",
+      "PWR-OCE",
+      "PWR-COA-CCS",
+      "PWR-PEA-CCS"
     ],
     "colorScale": [
       "#00664B",
@@ -1221,7 +1232,10 @@
       "#F99928",
       "#F26430",
       "#00E0A5",
-      "#E00447"
+      "#E00447",
+      "#00668F",
+      "#A020F0",
+      "#A020F0"
     ],
     "unit": "GW"
   },
@@ -1479,7 +1493,8 @@
       "RSD_BLD-XXX_NRGSRV-OE",
       "RSD_BLD-XXX_NRGSRV-PF",
       "RSD_BLD-XXX_NRGSRV-RF",
-      "RSD_BLD-XXX_NRGSRV-WS"
+      "RSD_BLD-XXX_NRGSRV-WS",
+      "RSD_BLD-XXX_NRGSRV-OA"
     ],
     "colorScale": [
       "#2D974B",
@@ -1490,7 +1505,8 @@
       "#4EB5FF",
       "#1900FF",
       "#DE3AAA",
-      "#8E1BA9"
+      "#8E1BA9",
+      "#A020F0"
     ],
     "unit": "PJ"
   },
@@ -1556,7 +1572,8 @@
       "SEAI_ELECTRICITY",
       "SEAI_NATGAS",
       "SEAI_OIL",
-      "SEAI_HYDROGEN"
+      "SEAI_HYDROGEN",
+      "SEAI_HEAT"
     ],
     "colorScale": [
       "#00664B",
@@ -1564,7 +1581,8 @@
       "#F2CD60",
       "#B0B2B8",
       "#8B6318",
-      "#F26430"
+      "#F26430",
+      "#9C427F"
     ],
     "unit": "PJ"
   },
@@ -1592,7 +1610,8 @@
       "SEAI_OIL",
       "SEAI_OTHER_RENEWABLES",
       "SEAI_PEAT",
-      "SEAI_HYDROGEN"
+      "SEAI_HYDROGEN",
+      "SEAI_HEAT"
     ],
     "colorScale": [
       "#00664B",
@@ -1602,7 +1621,8 @@
       "#8B6318",
       "#333EE6",
       "#7A5C61",
-      "#F26430"
+      "#F26430",
+      "#9C427F"
     ],
     "unit": "PJ"
   },
@@ -1816,7 +1836,8 @@
       "TRAETH",
       "TRAGSL",
       "TRACNG",
-      "TRAH2"
+      "TRAH2",
+      "TRABNG"
     ],
     "colorScale": [
       "#ADD682",
@@ -1825,7 +1846,8 @@
       "#23B290",
       "#EE5257",
       "#EABD10",
-      "#F26430"
+      "#F26430",
+      "#06422C"
     ],
     "unit": "PJ"
   },
@@ -1997,7 +2019,12 @@
       "PWR-MSW",
       "PWR-H2",
       "PWR-BIO-CCS",
-      "PWR-GAS-CCS"
+      "PWR-GAS-CCS",
+      "PWR-COA",
+      "PWR-PEA",
+      "PWR-OCE",
+      "PWR-COA-CCS",
+      "PWR-PEA-CCS"
     ],
     "colorScale": [
       "#B0B2B8",
@@ -2008,7 +2035,12 @@
       "#FCBF65",
       "#F26430",
       "#00E0A5",
-      "#E00447"
+      "#E00447",
+      "#161315",
+      "#7A5C61",
+      "#00668F",
+      "#A020F0",
+      "#A020F0"
     ],
     "unit": "GW"
   },
@@ -2380,9 +2412,15 @@
       "RSDSH_Apt-D",
       "RSDSH_Att-C",
       "RSDSH_Att-AB",
-      "RSDSH_Att-D"
+      "RSDSH_Apt-E",
+      "RSDSH_Att-D",
+      "RSDSH_Apt-C",
+      "RSDSH_Apt-AB"
     ],
     "colorScale": [
+      "#A020F0",
+      "#A020F0",
+      "#A020F0",
       "#A020F0",
       "#A020F0",
       "#A020F0",
@@ -2453,11 +2491,19 @@
   "TRA_FEC-TRABNG_Mode_Detailed": {
     "seriesNames": [
       "DMD_TRA-F-HTRUCK",
-      "DMD_TRA-F-MTRUCK"
+      "DMD_TRA-F-MTRUCK",
+      "DMD_TRA-P-BUS",
+      "DMD_TRA-P-TAXI",
+      "DMD_TRA-F-LTRUCK",
+      "DMD_TRA-P-CAR"
     ],
     "colorScale": [
       "#628307",
-      "#43B4D2"
+      "#43B4D2",
+      "#B4D24C",
+      "#85CBAC",
+      "#D1E23C",
+      "#5F363A"
     ],
     "unit": "PJ"
   }
