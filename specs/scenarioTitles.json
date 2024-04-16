@@ -1,4 +1,7 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "mitigation_cb": "Current carbon budget",
+  "mitigation_sectoralcbs": "Current sectoral carbon budgets",
+  "mitigation_cb2024-300mt": "Carbon budget - 300mt",
+  "mitigation_cb2024-350mt": "Carbon budget - 350mt",
+  "mitigation_cb2024-400mt": "Carbon budget - 400mt",
 }
