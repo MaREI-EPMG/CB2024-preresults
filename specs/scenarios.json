@@ -18,9 +18,5 @@
   {
     "name": "mitigation_cb2024-400mt",
     "variants": [{ "name": "mitigation_cb2024-400mt", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb2024-250mt",
-    "variants": [{ "name": "mitigation_cb2024-250mt", "specs": null }]
   }
 ]
