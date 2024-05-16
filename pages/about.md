@@ -1,7 +1,7 @@
-# Ireland's Energy System Mitigation Pathways Under Different Carbon Budget Constraints
+## Ireland's Energy System Mitigation Pathways Under Different Carbon Budget Constraints
 
-## SCENARIO ASSUMPTIONS
 
+### SCENARIO ASSUMPTIONS
 In this study, five different Carbon Budgets (CB) for the period of 2021-2050 are modelled based on the IPCC assessment of the global Remaining Carbon Budget (RCB), including:
 
 * 450Mt aligned with 67% likelihood of limiting global warming to 2.0°C (IPCC AR6 1150Gt CO2 RCB)
@@ -14,7 +14,7 @@ In this study, five different Carbon Budgets (CB) for the period of 2021-2050 ar
 
 * 250Mt aligned with 1.5°C (50%) (IPCC AR6 500Gt CO2 RCB)
 
-![image](https://github.com/MaREI-EPMG/CB2024-preresults/assets/72862177/cc71f785-23f0-437b-b1b4-49b80e28a8b8)
+![Carbon budget allocations](https://github.com/MaREI-EPMG/CB2024-preresults/assets/72862177/cc71f785-23f0-437b-b1b4-49b80e28a8b8)
 
 Two distinct demand projection scenarios are also considered: 
 
