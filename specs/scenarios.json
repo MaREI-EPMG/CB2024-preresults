@@ -26,5 +26,9 @@
   {
     "name": "carbon-budget-400mt-bau-new",
     "variants": [{ "name": "carbon-budget-400mt-bau-new", "specs": null }]
+  },
+  {
+    "name": "carbon-budget-450mt-bau-new",
+    "variants": [{ "name": "carbon-budget-450mt-bau-new", "specs": null }]
   }
 ]
