@@ -1,7 +1,7 @@
 ### CARBON BUDGET ANALYSIS WITH THE TIMES-IRELAND MODEL
 #### Second iteration of modelling to support CCAC CBWG<br><br>
 ##### SCENARIO ASSUMPTIONS
-In this study, five different Carbon Budgets (CB) for the period of 2021-2050 are modelled based on the IPCC assessment of the global Remaining Carbon Budget (RCB), including:
+Five different Carbon Budgets (CB) for the period of 2021-2050 are modelled based on the IPCC assessment of the global Remaining Carbon Budget (RCB), including:
 
 * 450 million tonnes (Mt) aligned with 67% likelihood of limiting global warming to 2.0°C (IPCC AR6 1150Gt CO2 RCB)
 
@@ -12,6 +12,8 @@ In this study, five different Carbon Budgets (CB) for the period of 2021-2050 ar
 * 300Mt aligned with 1.7°C (67%) and 1.5°C (33%) (IPCC AR6 700Gt CO2 RCB)
 
 * 250Mt aligned with 1.5°C (50%) (IPCC AR6 500Gt CO2 RCB)
+
+Carbon budget allocations are as follows:
 
 ![Carbon budget allocations](https://github.com/MaREI-EPMG/CB2024-preresults/assets/72862177/cc71f785-23f0-437b-b1b4-49b80e28a8b8)
 
