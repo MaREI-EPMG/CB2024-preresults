@@ -1,34 +1,34 @@
 [
   {
-    "name": "mitigation_cb",
-    "variants": [{ "name": "mitigation_cb", "specs": null }]
+    "name": "carbon-budget-250mt-bau-new",
+    "variants": [{ "name": "carbon-budget-250mt-bau-new", "specs": null }]
+  },
+{
+    "name": "carbon-budget-300mt-bau-new",
+    "variants": [{ "name": "carbon-budget-300mt-bau-new", "specs": null }]
   },
   {
-    "name": "mitigation_sectoralcbs",
-    "variants": [{ "name": "mitigation_sectoralcbs", "specs": null }]
+    "name": "carbon-budget-350mt-bau-new",
+    "variants": [{ "name": "carbon-budget-350mt-bau-new", "specs": null }]
   },
   {
-    "name": "mitigation_cb2024-250mt",
-    "variants": [{ "name": "mitigation_cb2024-250mt", "specs": null }]
+    "name": "carbon-budget-400mt-bau-new",
+    "variants": [{ "name": "carbon-budget-400mt-bau-new", "specs": null }]
   },
   {
-    "name": "mitigation_cb2024-300mt",
-    "variants": [{ "name": "mitigation_cb2024-300mt", "specs": null }]
+    "name": "carbon-budget-450mt-bau-new",
+    "variants": [{ "name": "carbon-budget-450mt-bau-new", "specs": null }]
   },
   {
-    "name": "mitigation_cb2024-300mt-upd-2-copy",
-    "variants": [{ "name": "mitigation_cb2024-300mt-upd-2-copy", "specs": null }]
+    "name": "carbon-budget-250mt-led-new",
+    "variants": [{ "name": "carbon-budget-250mt-led-new", "specs": null }]
   },
   {
-    "name": "mitigation_cb2024-350mt",
-    "variants": [{ "name": "mitigation_cb2024-350mt", "specs": null }]
+    "name": "carbon-budget-300mt-led-new",
+    "variants": [{ "name": "carbon-budget-300mt-led-new", "specs": null }]
   },
   {
-    "name": "mitigation_cb2024-400mt",
-    "variants": [{ "name": "mitigation_cb2024-400mt", "specs": null }]
+    "name": "carbon-budget-350mt-led-new",
+    "variants": [{ "name": "carbon-budget-350mt-led-new", "specs": null }]
   },
-    {
-    "name": "mitigation_cb2024-450mt",
-    "variants": [{ "name": "mitigation_cb2024-450mt", "specs": null }]
-  }
 ]

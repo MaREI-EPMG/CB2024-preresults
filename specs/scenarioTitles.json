@@ -1,10 +1,10 @@
 {
-  "mitigation_cb": "Current carbon budget",
-  "mitigation_sectoralcbs": "Current sectoral carbon budgets",
-  "mitigation_cb2024-250mt": "Carbon budget - 250mt",
-  "mitigation_cb2024-300mt": "Carbon budget - 300mt",
-  "mitigation_cb2024-300mt-upd-2-copy": "Carbon budget - 300mt-Update",
-  "mitigation_cb2024-350mt": "Carbon budget - 350mt",
-  "mitigation_cb2024-400mt": "Carbon budget - 400mt",
-  "mitigation_cb2024-450mt": "Carbon budget - 450mt",
+  "carbon-budget-250mt-bau-new": "carbon-budget-250mt-bau-new",
+  "carbon-budget-300mt-bau-new": "carbon-budget-300mt-bau-new",
+  "carbon-budget-350mt-bau-new": "carbon-budget-350mt-bau-new",
+  "carbon-budget-400mt-bau-new": "carbon-budget-400mt-bau-new",
+  "carbon-budget-450mt-bau-new": "carbon-budget-450mt-bau-new",
+  "carbon-budget-250mt-led-new": "carbon-budget-250mt-led-new",
+  "carbon-budget-300mt-led-new": "carbon-budget-300mt-led-new",
+  "carbon-budget-350mt-led-new": "carbon-budget-350mt-led-new"
 }
