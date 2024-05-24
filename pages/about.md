@@ -16,7 +16,7 @@ Five different Carbon Budgets (CB) for the period 2021-2050 are modelled based o
 
 Carbon budget allocations are as follows:
 
-![image](https://github.com/MaREI-EPMG/TIM-Carbon-Budget-2024/assets/72862177/33416856-7b15-44aa-b9ad-7643572f33d8)
+![image](https://github.com/MaREI-EPMG/TIM-Carbon-Budget-2024/assets/72862177/8de067ba-f4df-4c0f-9098-e1b1313e0f34)
 
 Two distinct demand projection scenarios are also considered: 
 
